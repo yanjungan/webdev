@@ -12,4 +12,10 @@ http://htmlpreview.github.io/?https://github.com/yanjungan/webdev/blob/master/in
 ###响应式布局
 ####CSS3-Media Query
 常见属性：
+* 1.device-width,device-height ----屏幕宽高，就是物理设备显示器的宽高
+* 2.width,height  ----渲染窗口宽高，就是浏览器的宽高
+* 3.orientation ----设备方向（横、竖）
+* 4.resolution ----设备分辨率
+基本语法：
+
 
