@@ -5,7 +5,7 @@
 * 1.制作这些界面，要进入bootstrap官网查询源代码，复制过来，进行修改。如导航栏，就要选navbar或者nav,还有button按钮这些
 * 2.下拉菜单dropdown,滚动广告carousel，栅格布局系统grid system,标签页tabs,弹出框modal
 * 3.打开标签页的内容用了少量的js代码$('#feature-tab a[href=#' + tabId + ']').tab('show');
-* 4.bootstrap框架必须设置meta标签，要在head里面设置 <meta name="viewport" content="width=device-width, initial-scale=1">，其中initial-scale=1的意思是默认情况下不缩放。
+* 4.bootstrap框架必须设置meta标签，要在head里面设置，其中initial-scale=1的意思是默认情况下不缩放。
 
 ####效果：
 http://htmlpreview.github.io/?https://github.com/yanjungan/webdev/blob/master/index.html
