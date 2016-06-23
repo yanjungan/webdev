@@ -20,5 +20,6 @@ http://htmlpreview.github.io/?https://github.com/yanjungan/webdev/blob/master/in
 基本语法：
 * 1.外联CSS语法，就是link.css
 * 2.内嵌样式语法，就是在HTML文件里面的style样式
+
 #### 效果：
 
