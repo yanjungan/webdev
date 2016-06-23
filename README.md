@@ -16,6 +16,9 @@ http://htmlpreview.github.io/?https://github.com/yanjungan/webdev/blob/master/in
 * 2.width,height  ----渲染窗口宽高，就是浏览器的宽高
 * 3.orientation ----设备方向（横、竖）
 * 4.resolution ----设备分辨率
-基本语法：
 
+基本语法：
+* 1.外联CSS语法，就是link.css
+* 2.内嵌样式语法，就是在HTML文件里面的style样式
+#### 效果：
 
